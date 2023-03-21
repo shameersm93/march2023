@@ -1,0 +1,15 @@
+Public class String {
+
+String a = "learn java";
+
+String reverse = " ";
+
+if(i = a.length - 1; i = 0 > a.length; i--){
+
+reverse = a+reverse;
+
+System.out.println(a);
+
+}
+
+}
